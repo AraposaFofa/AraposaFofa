@@ -9,12 +9,12 @@
   SQL
   MYSQL
   POSTGREESQL
-  PYTHOM
+  PYTHON
   R
   ASSEMBLER
   
   - 📫 How to reach me:
-  Twitter: @MinaGradualista
+  Twitter: @drctmsgless
   Whatsapp: 21 98570-2958
 
 <!---
