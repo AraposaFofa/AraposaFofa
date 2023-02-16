@@ -1,17 +1,17 @@
 - 👋 Ola @AraposaFofa
 - 🌱 I’m currently learning 
-  C
-  C++
-  JAVA
-  JS
-  PHP
-  CSS
-  SQL
-  MYSQL
-  POSTGREESQL
-  PYTHON
-  R
-  ASSEMBLER
+  
+  Full Stack Web Development
+  System Admin
+  
+  -> ReactJS
+  -> Tailwind.css
+  -> AngularJS
+  -> Lavarel
+  -> Django
+  -> Server Administration
+  -> Linux
+  -> Networks
   
   - 📫 How to reach me:
   Twitter: @drctmsgless
