@@ -1,4 +1,4 @@
-- 👋 Ola @AraposaFofa
+- 👋 Ola @Lcurty-web
 - 🌱 I’m currently learning 
   
   Full Stack Web Development
