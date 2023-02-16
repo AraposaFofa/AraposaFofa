@@ -13,6 +13,9 @@
   -> Linux
   -> Networks
   
+  I'm a direct and strict person, wich only applies to jobs wich *I know* that I can complete and do it. 
+  
+  
   - 📫 How to reach me:
   Twitter: @drctmsgless
   Whatsapp: 21 98570-2958
